@@ -1,2 +1,0 @@
-# Magento_SecurityPackage
-
